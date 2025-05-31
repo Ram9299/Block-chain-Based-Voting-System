@@ -20,3 +20,8 @@ ignition/deployments/chain-31337
 git add client
 git commit -m "Add client folder"
 git push
+
+# pushing of client folder contents
+git add client -f
+git commit -m "Include all necessary files from client folder"
+git push
