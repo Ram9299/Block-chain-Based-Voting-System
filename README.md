@@ -15,6 +15,8 @@ Modern UI built with Tailwind CSS + DaisyUI + Framer Motion
 
 🔐 Trustless. Transparent. Tamper-proof.
 
+![image](https://github.com/user-attachments/assets/a6fbc92a-1502-4e3d-be62-f7f50e95ca13)
+
 Try running some of the following tasks:
 
 ```shell
