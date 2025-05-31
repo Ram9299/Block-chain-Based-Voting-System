@@ -1,6 +1,19 @@
-# Sample Hardhat Project
+# 🚀 Blockchain-Based Voting System
+A secure, decentralized, and transparent online voting platform built with Solidity, React, and Hardhat. This project leverages the power of blockchain to ensure tamper-proof elections, real-time result tracking, and verifiable voter participation using unique IDs.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+💡 Features:
+
+Voter registration with unique identity
+
+On-chain vote casting and real-time tallying
+
+Admin panel for candidate management
+
+Fully decentralized using Ethereum smart contracts
+
+Modern UI built with Tailwind CSS + DaisyUI + Framer Motion
+
+🔐 Trustless. Transparent. Tamper-proof.
 
 Try running some of the following tasks:
 
