@@ -16,12 +16,3 @@ node_modules
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
 
-# adding client folder files
-git add client
-git commit -m "Add client folder"
-git push
-
-# pushing of client folder contents
-git add client -f
-git commit -m "Include all necessary files from client folder"
-git push
